@@ -1,9 +1,10 @@
-# A
+# DENEME1
 **yıldız yıldız**\
 *yıldız* *(eğri)*
-## B
+## DENEME 2
 `alıntı`
-### C
+### LİNK YÜKLEME
 LİNK [SAYFA](https://github.com/sametbora/ele101.1/edit/main/markdown.md)\
 :+1:\
+#### RESİM YÜKLEME
 
