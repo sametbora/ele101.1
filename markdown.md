@@ -6,5 +6,6 @@
 ### LİNK YÜKLEME
 LİNK [SAYFA](https://github.com/sametbora/ele101.1/edit/main/markdown.md)\
 :+1:\
-#### RESİM YÜKLEME
+#### RESİM YÜKLEME\
+![foto](
 
